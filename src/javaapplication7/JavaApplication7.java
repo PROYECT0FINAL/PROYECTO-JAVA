@@ -23,8 +23,9 @@ public class JavaApplication7 {
             System.out.println("4. Agregar disco al catalogo");
             System.out.println("5. Eliminar disco del catálago");
             System.out.println("6. Vender disco");
-            System.out.println("7. Salir");
-            System.out.print("********************************");
+            System.out.println("7. Generar reportes");
+            System.out.println("8. Salir");
+            System.out.println("********************************");
             System.out.println("Elige una opción:");
             opcion = sc.nextInt();
             switch (opcion) {
